@@ -63,7 +63,8 @@
         "gearmulator_SYNTH_OSIRUS": "ON",
         "gearmulator_SYNTH_OSTIRUS": "ON",
         "gearmulator_SYNTH_VAVRA": "ON",
-        "gearmulator_SYNTH_XENIA": "ON"
+        "gearmulator_SYNTH_XENIA": "ON",
+		"gearmulator_SYNTH_JE8086": "ON"
       }
     },
     {
